@@ -1,1 +1,1 @@
-# A-B-Testing-with-Cookie-Cats
+# A/B Testing with Cookie Cats
